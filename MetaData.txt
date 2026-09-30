@@ -1,0 +1,35 @@
+Timestamp: Precise 10-minute intervals from 2018 to 2024 for time-based analysis.
+
+Incident Severity: Classification of emergency severity as Low, Medium, or High.
+
+Incident Type: Nature of the incident: Accident, Cardiac Arrest, Fire, or Other.
+
+Region Type: Geographic classification: Urban, Suburban, or Rural.
+
+Traffic Congestion: Levels of traffic congestion: Low, Moderate, or High.
+
+Weather Condition: Environmental conditions: Clear, Rainy, or Stormy.
+
+Ambulance Availability: Indicates whether ambulances are Available or Unavailable.
+
+Hospital Capacity: Number of available beds in nearby hospitals (10-100).
+
+Distance to Incident: Distance in kilometers between the emergency service and the incident (1-50 km).
+
+Number of Injuries: Number of injured individuals (1-4).
+
+Specialist Availability: Availability of medical specialists: Available or Unavailable.
+
+Road Type: Classification of roads: Highway, Local Road, or Unpaved Road.
+
+Emergency Level: Level of emergency: Minor, Major, or Critical.
+
+Ambulance Speed: Speed of ambulances in km/h (20-80 km/h).
+
+Fuel Level: Remaining fuel level in ambulances, ranging from 10% to 100%.
+
+Weather Impact: Degree of weather interference: No Impact, Moderate, or Severe.
+
+Dispatch Coordinator: Decision-making entity for dispatch: Human or AI.
+
+Response Time: Estimated time for emergency units to respond (5-30 minutes).
