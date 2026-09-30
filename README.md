@@ -6,6 +6,7 @@ A data analytics and machine learning project that uses emergency incident data 
 > **The dataset used in this project is synthetic and is not real emergency-service data.**
 >
 > It was created/used for academic and demonstration purposes. It does not represent actual emergency incidents, ambulance operations, hospitals, patients, dispatch decisions, or real operational performance. The results should not be interpreted as real-world emergency response statistics.
+> It can't be downloaded because it's very large. 
 
 ## Small Project Description
 
@@ -420,24 +421,6 @@ jupyter notebook
 7. Run feature selection.
 8. Train and evaluate the predictive models.
 9. Run the Genetic Algorithm optimization.
-
-## Recommended Repository Structure
-
-```text
-Emergency-Response-Analytics/
-│
-├── README.md
-├── data/
-│   └── emergency_response_dataset.csv
-├── notebooks/
-│   └── emergency_response_analysis.ipynb
-├── src/
-│   └── analysis.py
-└── metadata/
-    └── MetaData.txt
-```
-
-Only include files that actually exist in your repository. This structure is a recommended organization for GitHub.
 
 ## Project Results
 
